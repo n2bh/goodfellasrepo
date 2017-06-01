@@ -218,11 +218,11 @@
 	</extension>
 </addon>
 
-<addon id="repository.goodfellas" name="GoodFellas" version="1.6" provider-name="GoodFellas">
+<addon id="repository.goodfellas" name="GoodFellas" version="1.7" provider-name="GoodFellas">
 	<extension point="xbmc.addon.repository" name="Good Fellas">
 		<info compressed="false">https://raw.githubusercontent.com/goodfellasteam/goodfellasrepo/master/addons.xml</info>
 		<checksum>https://raw.githubusercontent.com/goodfellasteam/goodfellasrepo/master/addons.xml.md5</checksum>
-		<datadir zip="true">https://raw.githubusercontent.com/goodfellasteam/goodfellasrepo</datadir>
+		<datadir zip="true">https://raw.githubusercontent.com/goodfellasteam/goodfellasrepo/master</datadir>
 	</extension>
 	<extension point="xbmc.addon.metadata">
 		<summary>Welcome to the GoodFellas Repository where you will find all the Live Tv, Movies, and Documentaries</summary>
