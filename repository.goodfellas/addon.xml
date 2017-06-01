@@ -3,7 +3,7 @@
 	<extension point="xbmc.addon.repository" name="Good Fellas">
 		<info compressed="false">https://raw.githubusercontent.com/goodfellasteam/goodfellasrepo/master/addons.xml</info>
 		<checksum>https://raw.githubusercontent.com/goodfellasteam/goodfellasrepo/master/addons.xml.md5</checksum>
-		<datadir zip="true">https://raw.githubusercontent.com/goodfellasteam/goodfellasrepo/master</datadir>
+		<datadir zip="true">https://github.com/goodfellasteam/goodfellasrepo/</datadir>
 	</extension>
 	<extension point="xbmc.addon.metadata">
 		<summary>Welcome to the GoodFellas Repository where you will find all the Live Tv, Movies, and Documentaries</summary>
@@ -12,3 +12,4 @@
 	</extension>
 </addon>
 
+https://github.com/goodfellasteam/goodfellasrepo/blob/master/addons.xml
