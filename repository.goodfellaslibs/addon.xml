@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.goodfellaslibs" name="Goodfellas Libraries" version="1.0" provider-name="GoodFellas">
+	<extension point="xbmc.addon.repository" name="Goodfellas Libraries">
+		<info compressed="false">https://raw.githubusercontent.com/goodfellasteam/goodfellasrepo/master/addons.xml</info>
+		<checksum>https://raw.githubusercontent.com/goodfellasteam/goodfellasrepo/master/addons.xml.md5</checksum>
+		<datadir zip="true">https://raw.githubusercontent.com/goodfellasteam/goodfellasrepo/master</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>Welcome to the GoodFellas Libraries Collection of common addons used for dependendcies</summary>
+		<description>Collection of common addons used for dependendcies</description>
+		<platform>all</platform>
+	</extension>
+</addon>
